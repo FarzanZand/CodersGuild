@@ -1,0 +1,8 @@
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\bin\Debug\CodersGuild.exe.config
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\bin\Debug\CodersGuild.exe
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\bin\Debug\CodersGuild.pdb
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\obj\Debug\CodersGuild.csproj.AssemblyReference.cache
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\obj\Debug\CodersGuild.csproj.SuggestedBindingRedirects.cache
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\obj\Debug\CodersGuild.csproj.CoreCompileInputs.cache
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\obj\Debug\CodersGuild.exe
+C:\Users\farzan.zand\Desktop\CodersGuild\CodersGuild\obj\Debug\CodersGuild.pdb
