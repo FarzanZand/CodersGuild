@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
     internal class FantasyCombatSimulator
     {
+
+    // Added a comment just for show
     static int strForPlayerOne = 30;
     static int strForPlayerTwo = 45;
     static string nameForPlayerOne = "Cizan";
