@@ -1,0 +1,8 @@
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\bin\Debug\CIZan.exe.config
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\bin\Debug\CIZan.exe
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\bin\Debug\CIZan.pdb
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\obj\Debug\CIZan.csproj.AssemblyReference.cache
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\obj\Debug\CIZan.csproj.SuggestedBindingRedirects.cache
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\obj\Debug\CIZan.csproj.CoreCompileInputs.cache
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\obj\Debug\CIZan.exe
+C:\Users\farzan.zand\Desktop\CodersGuild\CIZan\obj\Debug\CIZan.pdb
